@@ -53,7 +53,7 @@ module "my_organization_1" {
     {
         api_url                  = "https://api.github.com"
         http_url                 = "https://github.com"
-        oauth_token              = "7c345da8196149174080c912e7e236fa6138d2d7"
+        oauth_token              = "my_vcs_token"
         private_key              = ""
         service_provider         = "github"
     }
